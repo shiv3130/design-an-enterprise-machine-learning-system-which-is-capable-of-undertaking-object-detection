@@ -1,0 +1,4 @@
+flask
+numpy==1.15.0 or high
+tensorflow==1.12.0 or high
+docker
